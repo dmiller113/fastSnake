@@ -1,5 +1,4 @@
 window.onload = function() {
-  console.log("aset");
   var canvas = document.getElementById("cvs");
   var ctx = canvas.getContext("2d");
   var canvasX = canvasY = 400;
